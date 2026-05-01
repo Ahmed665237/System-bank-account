@@ -1,0 +1,241 @@
+401020000001
+Seif Barakat
+seif.barakat001@delta-banking.com
+159229.93
+01128792174
+7
+3
+2015
+Active
+401020000002
+Fady Kandil Salah
+fady.kandil002@delta-banking.com
+102177.76
+01190810033
+13
+6
+2025
+Active
+401020000003
+Sherif Kamel
+sherif.kamel003@alexbanking.com
+49699.16
+01017468145
+24
+2
+2017
+Active
+401020000004
+Ayman Zaki
+ayman.zaki004@nilebank.com
+0
+01077824419
+9
+9
+2019
+Inactive
+401020000005
+Rania Awad Saad
+rania.awad005@masrtrust.com
+201164.86
+01033076661
+12
+9
+2024
+Active
+401020000006
+Hassan ElSayed Fares
+hassan.elsayed006@nilebank.com
+132726.91
+01023100772
+17
+7
+2024
+Active
+401020000007
+Hend Soliman
+hend.soliman007@masrtrust.com
+0
+01160498372
+21
+11
+2021
+Inactive
+401020000008
+Bassem Awad Kandil
+bassem.awad008@delta-banking.com
+68549.59
+01104940326
+2
+7
+2025
+Active
+401020000009
+Heba Zaki
+heba.zaki009@nilebank.com
+54699.79
+01261113930
+26
+6
+2025
+Active
+401020000010
+Ali Kamel
+ali.kamel010@alexbanking.com
+63199.99
+01143933283
+15
+9
+2020
+Inactive
+401020000011
+Esraa Mansour
+esraa.mansour011@caironational.com
+14897.92
+01299624677
+21
+2
+2014
+Active
+401020000012
+Sameh Mansour
+sameh.mansour012@alexbanking.com
+0
+01293017655
+3
+2
+2018
+Inactive
+401020000013
+Ahmed Samir
+ahmed.samir013@delta-banking.com
+51606.86
+01066433208
+5
+6
+2018
+Active
+401020000014
+Mariam Younes
+mariam.younes014@masrtrust.com
+25811.36
+01174643769
+28
+12
+2013
+Active
+401020000015
+Mostafa Maher
+mostafa.maher015@alexbanking.com
+34964.91
+01021490376
+9
+11
+2016
+Active
+401020000016
+Nadine Farouk
+nadine.farouk016@caironational.com
+17466.28
+01532034407
+11
+1
+2019
+Active
+401020000017
+Mai Ibrahim
+mai.ibrahim017@caironational.com
+0
+01528840193
+14
+4
+2016
+Inactive
+401020000018
+Omar Hatem
+omar.hatem018@nilebank.com
+109855.27
+01216801544
+19
+4
+2017
+Active
+401020000019
+Mona Salah
+mona.salah019@delta-banking.com
+22633.40
+01180618352
+6
+8
+2022
+Active
+401020000020
+Karim Abdallah
+karim.abdallah020@masrtrust.com
+13037.18
+01054932066
+23
+9
+2020
+Active
+401020000021
+Hala Gamal
+hala.gamal021@alexbanking.com
+46857.62
+01270359624
+14
+10
+2015
+Active
+401020000022
+Islam Farouk
+islam.farouk022@delta-banking.com
+0
+01039011628
+30
+7
+2014
+Inactive
+401020000023
+Youssef Nasser
+youssef.nasser023@nilebank.com
+12228.56
+01137802619
+1
+2
+2016
+Active
+401020000024
+Farah Soliman
+farah.soliman024@caironational.com
+9215.40
+01078349021
+30
+5
+2012
+Active
+401020000025
+Mahmoud Hegazy
+mahmoud.hegazy025@delta-banking.com
+57192.74
+01521466057
+2
+9
+2019
+Active
+100000000686
+ahmed
+hkkh
+9877
+01553129975
+3
+4
+2026
+100000022481
+mihamed
+jfjf
+34555
+01553129975
+3
+2
+2026
